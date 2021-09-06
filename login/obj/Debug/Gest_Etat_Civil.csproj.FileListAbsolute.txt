@@ -1,0 +1,33 @@
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\bin\Debug\login.exe.config
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\bin\Debug\login.exe
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\bin\Debug\login.pdb
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.add_acte.resources
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.Add_deces.resources
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.copie_integral.resources
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.Etat_deces.resources
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.imprimer_acte.resources
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.Imprimer_copie_integrale.resources
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.page_principal.resources
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.loginForm.resources
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.Recherche_Acte.resources
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\Gest_Etat_Civil.csproj.GenerateResource.Cache
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.exe
+C:\Users\ayoub lafar\Desktop\étude\tp ASP\login\login\obj\Debug\login.pdb
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\bin\Debug\login.exe.config
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.exe
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.pdb
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\bin\Debug\login.exe
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\bin\Debug\login.pdb
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\Gest_Etat_Civil.csprojResolveAssemblyReference.cache
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.add_acte.resources
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.Add_deces.resources
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.copie_integral.resources
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.Etat_deces.resources
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.imprimer_acte.resources
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.Imprimer_copie_integrale.resources
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.page_principal.resources
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.loginForm.resources
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\login.Recherche_Acte.resources
+C:\Users\ayoub lafar\Desktop\Stage\Gest_Etat_Civil\login\obj\Debug\Gest_Etat_Civil.csproj.GenerateResource.Cache
